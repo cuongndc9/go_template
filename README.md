@@ -5,7 +5,4 @@
 
 a lightweight template 🍼 to start a new golang 🦍 project
 
-<!-- INSPIRATIONAL_QUOTE_START -->
-Stay curious. Keep learning. Keep growing.
-🧑‍💻
-<!-- INSPIRATIONAL_QUOTE_END -->
+<!-- INSPIRATIONAL_QUOTE_START -->\nThe best way to predict the future is to create it.\n🦄\n<!-- INSPIRATIONAL_QUOTE_END -->
