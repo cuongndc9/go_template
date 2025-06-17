@@ -4,5 +4,5 @@ a lightweight template 🍼 to start a new golang 🦍 project
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "It is during our darkest moments that we must focus to see the light." - Aristotle
+> "Failure will never overtake me if my determination to succeed is strong enough." - Og Mandino
 <!-- INSPIRATIONAL_QUOTE_END -->
