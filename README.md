@@ -4,5 +4,5 @@ a lightweight template 🍼 to start a new golang 🦍 project
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Failure will never overtake me if my determination to succeed is strong enough." - Og Mandino
+> "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
 <!-- INSPIRATIONAL_QUOTE_END -->
